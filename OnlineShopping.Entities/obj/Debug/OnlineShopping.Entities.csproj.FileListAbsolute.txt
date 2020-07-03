@@ -1,0 +1,2 @@
+C:\Users\Ravi\source\repos\OnlineShopping\OnlineShopping.Entities\obj\Debug\OnlineShopping.Entities.csprojAssemblyReference.cache
+C:\Users\Ravi\source\repos\OnlineShopping\OnlineShopping.Entities\obj\Debug\OnlineShopping.Entities.csproj.CoreCompileInputs.cache
